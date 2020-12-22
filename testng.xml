@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="LoginTest">
+    <test verbose="2" preserve-order="true" name="C:/Users/proph/IdeaProjects/POMframwork">
+        <classes>
+            <class name="TestCases.loginPageTest">
+            <methods><include name="loginPageTest"/></methods>
+            </class>
+        </classes>
+    </test>
+</suite>
